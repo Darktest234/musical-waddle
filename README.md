@@ -12,7 +12,7 @@ should include the protocol, e.g. `https://example.com`.
 
 ### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/musical-waddle/tree/master)
+<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ### Environment variables
 * `TG_API_ID` (required) - Your Telegram API ID.
